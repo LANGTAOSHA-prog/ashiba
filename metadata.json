@@ -1,0 +1,7 @@
+{
+  "name": "足場計算機",
+  "description": "专业脚手架排布计算与材料算量工具，支持平面割付、断面高度割付、材料清单自动汇总与工程记录管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
